@@ -1,0 +1,30 @@
+ /* Setting the paramaters of the Body */
+ body{ 
+    margin: 0;
+    padding: 0;  
+    width: 100%;                                           
+    background-color: white;	    
+ }
+/* Setting the paramaters of the Left column   */
+ #left-column{
+    width: 50%;
+    float: left;
+    background-color:rgb(128, 183, 235);     
+ }
+/* Setting the paramaters of the Right column image  */
+ #right-column img{
+    width:230px;
+    margin-left:140px;
+    margin-top:100px;
+}
+/* Setting the paramaters of the logo */
+ img#logo{
+   position:fixed;
+   width:150px;
+   bottom: 20px;
+   right:10px
+}
+/* Set the font of the headings */
+ h1{
+   font-family: 'CARTOON FREE', sans-serif;
+ }
